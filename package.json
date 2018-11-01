@@ -1,0 +1,15 @@
+{
+  "name": "cisko",
+  "version": "1.0.0",
+  "description": "central intelligence services known open",
+  "main": "app.js",
+  "dependencies": {
+    "crypto": "0.0.3",
+    "consolidate": "~0.13.1",
+"express": "~4.13.3",
+"nunjucks": "~2.2.0"
+  },
+  "author": "You",
+  "license": "0BSD",
+  "private": true
+}
